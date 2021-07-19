@@ -16,5 +16,6 @@ public class test01 {
         System.out.println("hello hot-fix!");
         System.out.println("hello hot-fix and master!");
         System.out.println("hello master adn hot-fix!");
+        System.out.println("push!");
     }
 }
